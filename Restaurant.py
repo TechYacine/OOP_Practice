@@ -2,7 +2,7 @@ class Restaurant:
     menu = ["chicken nuget", "salmon", "lettuce"]
     reserved_tables = {
         "A": "",
-        "B": "tamma",
+        "B": "raka",
         "C": "",
         "D": "",
         "E": ""
